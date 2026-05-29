@@ -16,5 +16,15 @@ A professional-grade terminal application demonstrating a decoupled **Package Ar
 1. Clone the repo: `git clone https://github.com/Shivam-044/ATM-Simulation.git`
 2. Run the system: `python main.py`
 
+     python main.py
+
+👤 Author
+
+<b> Shivam Kumar </b>
+
+<i>B.Tech Computer Science (2nd Year) </i>
+
+<i>Specialization: Cybersecurity & Security Engineering </i>
+
 ---
 *Developed with a focus on Clean Code and Separation of Concerns.*
