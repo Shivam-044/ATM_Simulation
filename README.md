@@ -24,8 +24,6 @@ A professional-grade terminal application demonstrating a decoupled **Package Ar
 
 <i>B.Tech Computer Science (2nd Year) </i>
 
-<i>Specialization: Cybersecurity & Security Engineering </i>
-
 GitHub: @Shivam-044
 
 
